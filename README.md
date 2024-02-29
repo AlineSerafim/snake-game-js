@@ -1,10 +1,10 @@
 
-#Jogo da Cobrinha em JavaScript
+# Jogo da Cobrinha em JavaScript
 
 Este é um clone do clássico jogo da cobrinha desenvolvido em JavaScript.
 
 
-##Como Jogar
+## Como Jogar
 - Abra o arquivo index.html em um navegador da web.
 - Use as setas do teclado para controlar a direção da cobrinha.
 - O objetivo é comer a comida que aparece aleatoriamente no tabuleiro sem colidir com as bordas da janela ou com o próprio corpo da cobrinha.
